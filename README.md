@@ -1,8 +1,10 @@
 ## Inspiration
 
+<img width="1880" height="874" alt="image" src="https://github.com/user-attachments/assets/829aa4a0-abaa-41a5-86df-c7bbae600bbf" />
+
+
 Building with LEGO is creative, but starting can be hard. Many people have loose bricks, limited time, or no idea what to build next. We wanted to remove that friction and turn constraints into creativity.  
 **Bricked** was inspired by the idea that what you have should never limit what you can create. Instead, it should help define your identity as a builder.
-
 ---
 
 ## What it does
